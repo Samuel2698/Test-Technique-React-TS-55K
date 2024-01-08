@@ -1,10 +1,10 @@
-# Prueba técnica con TypeScript y React
+# Test technique avec TypeScript et React
 
-Esto es una prueba técnica de una empresa europea para un sueldo de 55000 €/anuales.
+Il s'agit d'un examen technique d'une entreprise européenne pour un salaire de 55 000 €/an.
 
-El objetivo de esta prueba técnica es crear una aplicación similar a la que se proporciona en este enlace: https://midu-react-11.surge.sh/. Para lograr esto, debe usar la API proporcionada por https://randomuser.me/.
+Le but de ce test technique est de créer une application similaire à celle fournie dans ce lien : https://midu-react-11.surge.sh/. Pour y parvenir, vous devez utiliser l'API fournie par https://randomuser.me/.
 
-Los pasos a seguir:
+Les étapes à suivre :
 
 - [x] Fetch 100 rows of data using the API.
 - [x] Display the data in a table format, similar to the example.
